@@ -35,7 +35,7 @@ Step 2. Add the dependency
 ```xml
 	<dependency>
 	    <groupId>com.github.CrinoidTechnologies</groupId>
-	    <artifactId>andriod-utils</artifactId>
-	    <version>v0.5.1</version>
+	    <artifactId>android-server-utils</artifactId>
+	    <version>v0.5.0</version>
 	</dependency>
 ```
