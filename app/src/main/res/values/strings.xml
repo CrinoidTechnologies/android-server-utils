@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ServerUtils</string>
+    <string name="fetching">Fetching</string>
+    <string name="deleting">Deleting</string>
+    <string name="saving">Saving</string>
+    <string name="updating">Updating</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="successful_update">Successfully Updated</string>
+    <string name="successful_save">Successfully Saved</string>
+
+</resources>
